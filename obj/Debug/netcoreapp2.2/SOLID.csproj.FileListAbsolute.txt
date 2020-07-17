@@ -1,0 +1,10 @@
+C:\cpngit\SOLID\bin\Debug\netcoreapp2.2\SOLID.deps.json
+C:\cpngit\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.json
+C:\cpngit\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.dev.json
+C:\cpngit\SOLID\bin\Debug\netcoreapp2.2\SOLID.dll
+C:\cpngit\SOLID\bin\Debug\netcoreapp2.2\SOLID.pdb
+C:\cpngit\SOLID\obj\Debug\netcoreapp2.2\SOLID.csprojAssemblyReference.cache
+C:\cpngit\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfoInputs.cache
+C:\cpngit\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfo.cs
+C:\cpngit\SOLID\obj\Debug\netcoreapp2.2\SOLID.dll
+C:\cpngit\SOLID\obj\Debug\netcoreapp2.2\SOLID.pdb
